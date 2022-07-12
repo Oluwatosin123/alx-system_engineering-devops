@@ -9,4 +9,5 @@
 7. Write a shell script that creates a file named exactly ( ) containing the text Best School ending by a new line.
 8. Save current state of directory.
 9. Write a script that duplicates the last line of the file iacta.
-10. Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders. 
+10. Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+11. Write a script that counts the number of directories and sub-directories in the current directory. 
