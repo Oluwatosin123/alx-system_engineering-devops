@@ -7,4 +7,5 @@
 5. Display the first 10 lines of /etc/passwd
 6. Write a script that displays the third line of the file iacta.
 7. Write a shell script that creates a file named exactly ( ) containing the text Best School ending by a new line.
-8. Save current state of directory 
+8. Save current state of directory.
+9. Write a script that duplicates the last line of the file iacta. 
